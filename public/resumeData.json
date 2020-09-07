@@ -1,0 +1,116 @@
+{
+    "main": {
+        "name": "Michael Chen",
+        "occupation": "",
+        "description": "拥有内容产品设计、数据分析与音频项目经验。熟悉移动产品开发流程，掌握前端技术。善于洞察用户需求，能够沟通与整合资源，提出有价值的解决方案。",
+        "image": "profilepic.jpg",
+        "bio": "我叫陈昱玮，来自台湾，过去从事游戏广告业与教育互联网行业。擅长内容策划，运用产品思维打造出能带给用户价值感的内容。",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "yw_chen_michael@163.com",
+        "phone": "+86 13162191529",
+        "address": {
+            "street": "Shanghai",
+            "city": "",
+            "state": "(Your State)",
+            "zip": "(Your Zip/Postal Code)"
+        },
+        "website": "",
+        "resumedownload": "https://share.weiyun.com/aj0O7jJX",
+        "social": [
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/yu-wei-chen-michael/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/Littletittlecatcat",
+                "className": "fa fa-github"
+            },
+            {
+                "name": "喜玛拉雅",
+                "url": "https://www.ximalaya.com/shangye/40967604/",
+                "className": "fa fa-headphones"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "熟悉数据分析、音频后期工具与前端开发",
+        "education": [
+            {
+                "school": "Seoul National University 首尔大学",
+                "degree": "国际政治与经济",
+                "graduated": "2016 ~ 2018",
+                "description": "专攻东亚经济发展与产业政策研究"
+            },
+            {
+                "school": "National Chuanghua University of Education",
+                "school2": "彰化师范大学",
+                "degree": "英语系",
+                "graduated": "2012 ~ 2016",
+                "description": "主修语言学、教育学；副修社会学"
+            }
+        ],
+        "work": [
+            {
+                "company": "流利说",
+                "title": "产品运营/课程设计师",
+                "years": "五月 2019 - 七月 2020",
+                "description1": "内容策划：参与策划内容框架、建立品控标准和审核流程，产出高质量的英语分级小说、教材和音频（5+原版书、15+简编书）",
+                "description2": "项目管理：统筹英文有声书的制作流程，包含录音员选拔、沟通、后期制作和质检，产出 5 本以上高质量的英文原版有声书。并负责建立外包流程，全面统筹兼职主编的招聘、培训、排期和进度管理工作",
+                "description3": "调研方向：执行调研工作与竟品分析。在用户调研上，通过定性调研方式分析用户反馈和挖掘需求，协助团队调整内容、迭代课程。通过分析用户学习数据，理解用户行为，并调整内容模块，增加整体用户留存指标。",
+                "description4": "产品功能：整合教研需求，与各部门共同实现产品的学习功能，并和算法团队合作迭代i+1单词推荐 & TTS语音合成，推动需求落地与功能优化。协助开发团队解决技术问题。"
+            }
+        ],
+        "skills": [
+            {
+                "name": "音频后期（Audition）",
+                "level": "90%"
+            },
+            {
+                "name": "数据分析（Python, SQL）",
+                "level": "90%"
+            },
+            {
+                "name": "Axure",
+                "level": "80%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "70%"
+            },
+            {
+                "name": "CSS",
+                "level": "70%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Youtubeapi",
+                "category": "Customize Youtube Api",
+                "image": "youtubeapi.jpg",
+                "url": "https://github.com/Littletittlecatcat/Youtubeapi"
+            },
+            {
+                "title": "汇率报价机器人",
+                "category": "Line Chatbot for Exchange rate",
+                "image": "line.png",
+                "url": "https://github.com/Littletittlecatcat/linebot-exchange-rate"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [
+            {
+                "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+                "user": "Kareem Abdul Jabbar"
+            },
+            {
+                "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+                "user": "Steve Wozniak... impersonator"
+            }
+        ]
+    }
+}
