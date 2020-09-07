@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.5facb584.chunk.css",
+    "main.js": "/resume/static/js/main.b146b5cd.chunk.js",
+    "main.js.map": "/resume/static/js/main.b146b5cd.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.05fbbc33.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.05fbbc33.js.map",
+    "static/js/2.f21f2039.chunk.js": "/resume/static/js/2.f21f2039.chunk.js",
+    "static/js/2.f21f2039.chunk.js.map": "/resume/static/js/2.f21f2039.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.617b96e279ec47ecb8d5855e796bfcb5.js": "/resume/precache-manifest.617b96e279ec47ecb8d5855e796bfcb5.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/resume/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.f21f2039.chunk.js.LICENSE.txt": "/resume/static/js/2.f21f2039.chunk.js.LICENSE.txt",
+    "static/media/artemis.jpg": "/resume/static/media/artemis.9c3037cc.jpg",
+    "static/media/book thief.jpg": "/resume/static/media/book thief.cfc5737c.jpg",
+    "static/media/flipped.jpg": "/resume/static/media/flipped.80607fd2.jpg",
+    "static/media/oneday.jpg": "/resume/static/media/oneday.116b6857.jpg",
+    "static/media/the time machine.jpg": "/resume/static/media/the time machine.5befb086.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05fbbc33.js",
+    "static/js/2.f21f2039.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.b146b5cd.chunk.js"
+  ]
+}
